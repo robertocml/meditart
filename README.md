@@ -4,9 +4,9 @@
 ### https://breathe-app-robertocml.netlify.app/          
 
 ## Esta aplicación fue creada usando
-* [HTML]
-* [CSS]
-* [JS]
+* HTML
+* CSS
+* JS
 
 ## Autores
 
